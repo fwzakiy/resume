@@ -54,36 +54,42 @@ experience:
       <ul><li>Responsible for creating and implementing an array of Web-based products using PHP, MySQL, and JavaScript.</li><li>Develop back-end components, connect the application with other web services, and assist front-end developers by ensuring their work integrates with the application.</li><li>Asked to develop and integrate plug-ins for popular frameworks.</li></ul>
     technologies_used: | 
       HTML, PHP, JavaScript, MySQL
-  
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+      
+  - role: Administration
+    time: 2019
+    company: Lembaga Pengelola Dana Bergulir Koperasi, Usaha Mikro, Kecil dan Menengah / Jakarta Selatan
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      COBIT
+  
+  - role: IT Staff
+    time: 2014-2018
+    company: Pusat Karir dan Konseling Universitas Andalas / Padang
+    details: |
+      <ul><li>Installing and configuring computer hardware, software, systems, networks, printers and scanners</li><li>Monitoring and maintaining computer systems and networks</li><li>Responding in a timely manner to service issues and requests</li><li>Providing technical support across the company (this may be in person or over the phone)</li><li>Setting up accounts for new users</li><li>Repairing and replacing equipment as necessary</li><li>Testing new technology</li><li>Possibly training more junior staff member</li></ul>
+    technologies_used: | 
+      HTML, PHP, JavaScript, MySQL, Networking, IT Operations
+      
+  - role: Internship
+    time: 2017
+    company: Dinas Energi dan Sumber Daya Mineral Sumatera Barat / Padang
+    details: |
+      
+    technologies_used: | 
+      HTML, PHP, JavaScript, MySQL, PostgreSQL, IT Operations
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: Inventarisasi Daerah Pertambangan Mineral dan Batu Bara Berasis WebGIS
+    link: "http://scholar.unand.ac.id/36512/"
+    authors: Faishal Wafiq Zakiy
+    conference: Tugas Akhir
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: TEDxBatangArau
+    link: https://www.tedxbatangarau.com/
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Build TED Independent Conference website.
 
   - title: Cool Project 
     link: #
@@ -93,10 +99,51 @@ projects:
 
 # Volunteering
 volunteering:
-  - time: 2023-Present
-    role: PR Manager
-    company: Some random organization
+  - time: 2018
+    role: Webmaster
+    company: TEDxBatangArau
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Build and maintenance TED Independent Conference website.
+      
+  - time: 2018-now
+    role: Facilitator
+    company: Google Gapura Digital
+    details: |
+      ---
+      
+  - time: 2015-now
+    role: Volunteer
+    company: Wikimedia Indonesia
+    details: |
+      ---
+
+  - time: 2018-now
+    role: Volunteer
+    company: Wikimedia Indonesia dan Dinas Pemuda Olahraga dan Pariwisata Kota Padang Panjang
+    details: |
+      Digitalisasi Konten di Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau
+
+  - time: 2018-now
+    role: Volunteer
+    company: Wikimedia Indonesia dan Dinas Pemuda Olahraga dan Pariwisata Kota Padang Panjang
+    details: |
+      Digitalisasi Konten di Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau
+  
+  - time: 2018-now
+    role: Volunteer
+    company: Wikimedia Indonesia dan Dinas Pemuda Olahraga dan Pariwisata Kota Padang Panjang
+    details: |
+      Digitalisasi Konten di Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau
+
+  - time: 2013-now
+    role: Social Media Specialist
+    company: Wikipedia Minangkabau
+    details: |
+      Coordinating content creation and posts for four Minangnese-Wikipedia social media:
+      Twitter (@minangwiki), Facebook (@minangwiki), Telegram (@minangwiki), and Instagram (@minangwiki).
+      
+  - time: 2018-now
+    role: Volunteer
+    company: Wikimedia Indonesia dan Dinas Pemuda Olahraga dan Pariwisata Kota Padang Panjang
+    details: |
+      Digitalisasi Konten di Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau
