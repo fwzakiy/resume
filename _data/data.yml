@@ -16,7 +16,7 @@ languages:
   - idiom: English
 
 education:
-  - degree: M.T.I. Information Technology
+  - degree: M.T.I. in Information Technology
     time: 2019-2021
     university: Universitas Indonesia
 
@@ -40,25 +40,22 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Motivated IT support technician seeks new position in dynamic, growth-oriented company focused on 
+  cultivating exceptional customer experience and a positive work environment. With experience
+  handling networking concerns, implementing new software, installing new hardware, and addressing 
+  user concerns, I bring attention to detail and a dedication to technical improvement to each job.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: PHP Developer
+    time: 2019
+    company: PT Praxislabs Indonesia / Jakarta Selatan
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      - Responsible for creating and implementing an array of Web-based products using PHP, MySQL, and JavaScript.
+      - Develop back-end components, connect the application with other web services, and assist front-end developers by ensuring their work integrates with the application.
+      - Asked to develop and integrate plug-ins for popular frameworks.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      HTML, PHP, JavaScript, MySQL
   
   - role: Researcher
     time: 2016-2020
