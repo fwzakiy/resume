@@ -1,203 +1,108 @@
-name: Faishal Wafiq Zakiy
+name: John Doe
 support_dark_mode: true
-fork: false
+fork: true
 
 # Sidebar
 contact:
-  email: fw@zakiy.my.id
-  github: fwzakiy
-  linkedin: zakiy
-  phone: +62-812-6108-9777
-  gitlab: 24kiy
-  twitter: fwzakiy
+  email: info@johndoe.com
+  github: johndoe
+  linkedin: johndoe
+  phone: 
+  gitlab: 
+  twitter: 
 
 languages:
-  - idiom: Indonesia
   - idiom: English
-  - idiom: Minang
+  - idiom: Russian
+  - idiom: French
 
 education:
-  - degree: Magister Teknologi Informasi
-    time: 2019-sekarang
-    university: Universitas Indonesia
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
 
-  - degree: Sarjana Komputer
-    time: 2013-2018
-    university: Universitas Andalas
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
 
 skills:
   - category: Backend
     skill: 
-      - PHP
-      - Phyton
+      - Go
+      - Rust
   - category: Frontend
     skill:
-      - HTML
-      - CSS
-      - JavaScript
-  - category: Digital Marketing
+      - React
+      - Typescript
+  - category: DevOps
     skill:
-      - Google Analytics
-      - Google search console
-      - Keyword planner
-      - Email marketing
-      - Organic social media marketing
-      - Paid social media marketing
-      - Content writing
+      - Docker
+      - Kubernetes 
 
 # Profile
 profile: |
-  Motivated IT enthusiast seeks new position in dynamic, growth-oriented company focused on 
-  cultivating exceptional customer experience and a positive work environment.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  fugiat nulla pariatur.
 
 # Experience
 experience:
-  - role: PHP Developer
-    time: 2019
-    company: PT Praxislabs Indonesia / Jakarta Selatan
+  - role: Software Engineer
+    time: 2020-Present
+    company: Google
     details: |
-      <ul>
-        <li>Responsible for creating and implementing an array of Web-based products using PHP, MySQL, and JavaScript.</li>
-        <li>Develop back-end components, connect the application with other web services, and assist front-end developers by ensuring their work integrates with the application.</li>
-        <li>Asked to develop and integrate plug-ins for popular frameworks.</li>
-       </ul>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-      HTML, PHP, JavaScript, MySQL, Phyton, Analyst
+      Go, Angular, Typescript, C++
   
-  - role: IT Staff
-    time: 2014-2018
-    company: Pusat Karir dan Konseling Universitas Andalas / Padang
+  - role: Researcher
+    time: 2016-2020
+    company: Microsoft
     details: |
-      <ul>
-        <li>Installing and configuring computer hardware, software, systems, networks, printers and scanners</li>
-        <li>Monitoring and maintaining computer systems and networks</li>
-        <li>Responding in a timely manner to service issues and requests</li><li>Providing technical support across the company (this may be in person or over the phone)</li>
-        <li>Setting up accounts for new users</li>
-        <li>Repairing and replacing equipment as necessary</li>
-        <li>Testing new technology</li>
-        <li>Possibly training more junior staff member</li>
-      </ul>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-      HTML, PHP, JavaScript, MySQL, Networking, IT Operations
-      
-  - role: Kerja Praktek
-    time: 2017
-    company: Dinas Energi dan Sumber Daya Mineral Sumatera Barat / Padang
-    details: |
-      Mengikuti program mata kuliah Kerja Praktek dari jurusan di Dinas ESDM Sumatera Barat.
-      Aktivitas saya fokus ke bagian Sistem Informasi Georgrafis pertambagan baru bara dan mineral.
-    technologies_used: | 
-      HTML, PHP, JavaScript, MySQL, PostgreSQL, IT Operations
+      Python, Tensorflow, Keras, Matlab
 
 publications:
-  - title: Inventarisasi Daerah Pertambangan Mineral dan Batu Bara Berasis WebGIS
-    link: "http://scholar.unand.ac.id/36512/"
-    authors: Faishal Wafiq Zakiy
-    conference: Tugas Akhir
+  - title: Random title of paper. An interesting one.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference, 2016
+
+  - title: Second title of paper. An interesting one too.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference again, 2018
 
 projects:
-  - title: Lintas Negara - 2019
-    link: http://www.lintasnegara.com/
-    details: |
-      Menjadi <i>fullstack developer</i> untuk <i>start-up</i> Lintas Negara, sebuah jasa pengiriman produk dari luar negeri ke Indonesia.
-  
-  - title: Cronos ERP - 2019
-    link: http://www.cronos.id/
-    details: |
-      Menjadi <i>digital marketing</i> untuk <i>start-up</i> Cronos, sebuah ERP dari PT Praxislabs Indonesia.
-  
-  - title: Assesment & Improvement IT Strategy, Tata Kelola + Platform - 2019
+  - title: Cool Project 
     link: #
     details: |
-      Adminsistrasi proyek yang bertujuan untuk melakukan penilaian dan peningkatan strategi dan tata kelola platform
-      teknologi informasi di Lembaga Pengelola Dana Bergulir Koperasi dan Usaha Mikro Kecil Menengah Pepublik Indonesia.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: TEDxBatangArau - 2018
-    link: https://www.tedxbatangarau.com/
+  - title: Cool Project 
+    link: #
     details: |
-      Membangun website untuk kegiatan TED Independent Conference, fitur yang terdapat pada website antara lain:
-      waktu hitung mundur, pengumuman, berita, registrasi, dan kontak.
-      
-- title: Membangun Komunitas Wikipedia Minangkabau - 2017
-    link: https://id.wikimedia.org/wiki/Membangun_komunitas_Wikipedia_Minangkabau
-    details: |
-      Membangun komunitas penyunting Wikipedia Bahasa Minangkabau. Cara yang dilakukan yaitu membangun hubungan secara langsung 
-      dengan para pemangku kepentingan Bahasa Minangkabau khususnya di Kota Padang dan sekitarnya, dan di Sumatera Barat pada umumnya.
-      Dengan ini, para Pemangku Kepentingan memperoleh pengetahuan yang benar akan pemanfaatan pengetahuan bebas dari Wikipedia
-      dan proyek-proyek Wikimedia lainnya, yang dalam jangka panjang dapat mendukung perkembangan Wikipedia Bahasa Minangkabau.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
 volunteering:
-  - time: 2019-2020
-    role: Koordinator Komunitas
-    company: Komunitas Wikimedia Jakarta
+  - time: 2020-Present
+    role: PR Manager
+    company: Some random organization
     details: |
-      Komunitas yang menaungi Wikipediawan (pengguna Wikipedia) di Jakarta.
-      
-  - time: 2018-now
-    role: Fasilitator
-    company: Google Gapura Digital
-    details: |
-      Proyek pengenalan program-program digital Google untuk UMKM di Indonesia.
-      
-  - time: 2015-now
-    role: Anggota
-    company: Wikimedia Indonesia
-    details: |
-      Komunitas yang menaungi Wikipediawan (pengguna Wikipedia) di Indonesia.
-
-  - time: 2018
-    role: Relawan
-    company: Wikimedia Indonesia
-    details: |
-      Digitalisasi Konten di Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau bekerja sama dengan Dinas Pemuda Olahraga dan Pariwisata Kota Padang Panjang.
-
-  - time: 2018
-    role: Relawan
-    company: Wikimedia Indonesia
-    details: |
-      Program pengajaran penulisan Wikipedia di Universitas Andalas. Dalam hal ini, relawan bekerja sama dengan dosen untuk mengisi mata kuliah.
-      
-  - time: 2017
-    role: Relawan Pengabdian Masyarakat
-    company: Jurusan Sistem Informasi Universitas Andalas
-    details: |
-      Peningkatan Promosi Potensi Daerah Melalui Pemanfaatan Teknologi Informasi.
-
-- time: 2017
-    role: Relawan Pengabdian Masyarakat
-    company: Jurusan Sistem Informasi Universitas Andalas
-    details: |
-      Pembangunan Website Profil Nagari Andaleh.
-
-- time: 2017
-    role: Relawan Pengabdian Masyarakat
-    company: Jurusan Sistem Informasi Universitas Andalas
-    details: |
-      Pembangunan dan Pengembangan Web Sistem Informasi Geografis Kecamatan Tanjung Raya.
-
-  - time: 2013-sekarang
-    role: Social Media Specialist
-    company: Wikipedia Minangkabau
-    details: |
-      Mengkoordinasikan pembuatan konten dan posting untuk empat media sosial Wikipedia Minangkabau:
-      Twitter (@minangwiki), Facebook (@minangwiki), Telegram (@minangwiki), and Instagram (@minangwiki).
-
-  - time: 2014-2018
-    role: Social Media Specialist
-    company: Universitas Andalas
-    details: |
-      Mengkoordinasikan pembuatan konten dan posting untuk media sosial halaman LinkedIn Universitas Andalas.
-
-  - time: 2014-2018
-    role: Social Media Specialist
-    company: UPT Pusat Karir dan Konseling Universitas Andalas
-    details: |
-      Mengkoordinasikan pembuatan konten dan posting untuk seluruh media sosial UPT Pusat Karir dan Konseling Universitas Andalas.
-      Selain itu juga berperan dalam pelayanan karier dan konseling bagi mahasiswa/i dan alumni Universitas Andalas.
-
-  - time: 2014-2018
-    role: Social Media Specialist
-    company: Jurusan Sistem Informasi Universitas Andalas
-    details: |
-      Pengelola situs web resmi (si.fti.unand.ac.id) dan pengelola akun media sosial untuk Twitter (@siunand).
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
