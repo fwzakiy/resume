@@ -1,43 +1,48 @@
-name: John Doe
+name: Faishal Wafiq Zakiy
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: fw@zakiy.my.id
+  github: fwzakiy
+  linkedin: zakiy
+  phone: 0812-6108-9777
+  gitlab: 24kiy
+  twitter: fwzakiy
 
 languages:
+  - idiom: Indonesia
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Minang
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Magister Teknologi Informasi
+    time: 2019-sekarang
+    university: Universitas Indonesia
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
-
+  - degree: Sarjana Komputer
+    time: 2013-2018
+    university: Universitas Andalas
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - PHP
+      - Phyton
   - category: Frontend
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - HTML
+      - CSS
+      - JavaScript
+  - category: Digital Marketing
     skill:
-      - Docker
-      - Kubernetes 
+      - Google Analytics
+      - Google search console
+      - Keyword planner
+      - Email marketing
+      - Organic social media marketing
+      - Paid social media marketing
+      - Content writing
 
 # Profile
 profile: |
