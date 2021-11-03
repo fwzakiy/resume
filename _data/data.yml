@@ -7,43 +7,48 @@ contact:
   email: fw@zakiy.my.id
   github: fwzakiy
   linkedin: zakiy
-  phone: 
+  phone: +62-812-6108-9777
   gitlab: 24kiy
   twitter: fwzakiy
 
 languages:
   - idiom: Indonesia
   - idiom: English
+  - idiom: Minang
 
 education:
-  - degree: M.T.I. in Information Technology
-    time: 2019-2021
+  - degree: Magister Teknologi Informasi
+    time: 2019-sekarang
     university: Universitas Indonesia
 
-  - degree: S. Kom. in Information System
+  - degree: Sarjana Komputer
     time: 2013-2018
     university: Universitas Andalas
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - PHP
+      - Phyton
   - category: Frontend
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - HTML
+      - CSS
+      - JavaScript
+  - category: Digital Marketing
     skill:
-      - Docker
-      - Kubernetes 
+      - Google Analytics
+      - Google search console
+      - Keyword planner
+      - Email marketing
+      - Organic social media marketing
+      - Paid social media marketing
+      - Content writing
 
 # Profile
 profile: |
-  Motivated IT support technician seeks new position in dynamic, growth-oriented company focused on 
-  cultivating exceptional customer experience and a positive work environment. With experience
-  handling networking concerns, implementing new software, installing new hardware, and addressing 
-  user concerns, I bring attention to detail and a dedication to technical improvement to each job.
+  Motivated IT enthusiast seeks new position in dynamic, growth-oriented company focused on 
+  cultivating exceptional customer experience and a positive work environment.
 
 # Experience
 experience:
@@ -51,31 +56,36 @@ experience:
     time: 2019
     company: PT Praxislabs Indonesia / Jakarta Selatan
     details: |
-      <ul><li>Responsible for creating and implementing an array of Web-based products using PHP, MySQL, and JavaScript.</li><li>Develop back-end components, connect the application with other web services, and assist front-end developers by ensuring their work integrates with the application.</li><li>Asked to develop and integrate plug-ins for popular frameworks.</li></ul>
+      <ul>
+        <li>Responsible for creating and implementing an array of Web-based products using PHP, MySQL, and JavaScript.</li>
+        <li>Develop back-end components, connect the application with other web services, and assist front-end developers by ensuring their work integrates with the application.</li>
+        <li>Asked to develop and integrate plug-ins for popular frameworks.</li>
+       </ul>
     technologies_used: | 
-      HTML, PHP, JavaScript, MySQL
-      
-  - role: Administration
-    time: 2019
-    company: Lembaga Pengelola Dana Bergulir Koperasi, Usaha Mikro, Kecil dan Menengah / Jakarta Selatan
-    details: |
-      
-    technologies_used: | 
-      COBIT
+      HTML, PHP, JavaScript, MySQL, Phyton, Analyst
   
   - role: IT Staff
     time: 2014-2018
     company: Pusat Karir dan Konseling Universitas Andalas / Padang
     details: |
-      <ul><li>Installing and configuring computer hardware, software, systems, networks, printers and scanners</li><li>Monitoring and maintaining computer systems and networks</li><li>Responding in a timely manner to service issues and requests</li><li>Providing technical support across the company (this may be in person or over the phone)</li><li>Setting up accounts for new users</li><li>Repairing and replacing equipment as necessary</li><li>Testing new technology</li><li>Possibly training more junior staff member</li></ul>
+      <ul>
+        <li>Installing and configuring computer hardware, software, systems, networks, printers and scanners</li>
+        <li>Monitoring and maintaining computer systems and networks</li>
+        <li>Responding in a timely manner to service issues and requests</li><li>Providing technical support across the company (this may be in person or over the phone)</li>
+        <li>Setting up accounts for new users</li>
+        <li>Repairing and replacing equipment as necessary</li>
+        <li>Testing new technology</li>
+        <li>Possibly training more junior staff member</li>
+      </ul>
     technologies_used: | 
       HTML, PHP, JavaScript, MySQL, Networking, IT Operations
       
-  - role: Internship
+  - role: Kerja Praktek
     time: 2017
     company: Dinas Energi dan Sumber Daya Mineral Sumatera Barat / Padang
     details: |
-      
+      Mengikuti program mata kuliah Kerja Praktek dari jurusan di Dinas ESDM Sumatera Barat.
+      Aktivitas saya fokus ke bagian Sistem Informasi Georgrafis pertambagan baru bara dan mineral.
     technologies_used: | 
       HTML, PHP, JavaScript, MySQL, PostgreSQL, IT Operations
 
@@ -86,64 +96,83 @@ publications:
     conference: Tugas Akhir
 
 projects:
-  - title: TEDxBatangArau
-    link: https://www.tedxbatangarau.com/
+  - title: Lintas Negara - 2019
+    link: http://www.lintasnegara.com/
     details: |
-      Build TED Independent Conference website.
-
-  - title: Cool Project 
+      Menjadi <i>fullstack developer</i> untuk <i>start-up</i> Lintas Negara, sebuah jasa pengiriman produk dari luar negeri ke Indonesia.
+  
+  - title: Cronos ERP - 2019
+    link: http://www.cronos.id/
+    details: |
+      Menjadi <i>digital marketing</i> untuk <i>start-up</i> Cronos, sebuah ERP dari PT Praxislabs Indonesia.
+  
+  - title: Assesment & Improvement IT Strategy, Tata Kelola + Platform - 2019
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Adminsistrasi proyek yang bertujuan untuk melakukan penilaian dan peningkatan strategi dan tata kelola platform
+      teknologi informasi di Lembaga Pengelola Dana Bergulir Koperasi dan Usaha Mikro Kecil Menengah Pepublik Indonesia.
+
+  - title: TEDxBatangArau - 2018
+    link: https://www.tedxbatangarau.com/
+    details: |
+      Membangun website untuk kegiatan TED Independent Conference, fitur yang terdapat pada website antara lain:
+      waktu hitung mundur, pengumuman, berita, registrasi, dan kontak.
+      
+- title: Membangun Komunitas Wikipedia Minangkabau - 2017
+    link: https://id.wikimedia.org/wiki/Membangun_komunitas_Wikipedia_Minangkabau
+    details: |
+      Membangun komunitas penyunting Wikipedia Bahasa Minangkabau. Cara yang dilakukan yaitu membangun hubungan secara langsung 
+      dengan para pemangku kepentingan Bahasa Minangkabau khususnya di Kota Padang dan sekitarnya, dan di Sumatera Barat pada umumnya.
+      Dengan ini, para Pemangku Kepentingan memperoleh pengetahuan yang benar akan pemanfaatan pengetahuan bebas dari Wikipedia
+      dan proyek-proyek Wikimedia lainnya, yang dalam jangka panjang dapat mendukung perkembangan Wikipedia Bahasa Minangkabau.
 
 # Volunteering
 volunteering:
-  - time: 2018
-    role: Webmaster
-    company: TEDxBatangArau
+  - time: 2019-2020
+    role: Koordinator Komunitas
+    company: Komunitas Wikimedia Jakarta
     details: |
-      Build and maintenance TED Independent Conference website.
+      Komunitas yang menaungi Wikipediawan (pengguna Wikipedia) di Jakarta.
       
   - time: 2018-now
-    role: Facilitator
+    role: Fasilitator
     company: Google Gapura Digital
     details: |
-      ---
+      Proyek pengenalan program-program digital Google untuk UMKM di Indonesia.
       
   - time: 2015-now
-    role: Volunteer
+    role: Anggota
     company: Wikimedia Indonesia
     details: |
-      ---
+      Komunitas yang menaungi Wikipediawan (pengguna Wikipedia) di Indonesia.
 
-  - time: 2018-now
-    role: Volunteer
-    company: Wikimedia Indonesia dan Dinas Pemuda Olahraga dan Pariwisata Kota Padang Panjang
+  - time: 2018
+    role: Relawan
+    company: Wikimedia Indonesia
     details: |
-      Digitalisasi Konten di Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau
+      Digitalisasi Konten di Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau bekerja sama dengan Dinas Pemuda Olahraga dan Pariwisata Kota Padang Panjang.
 
-  - time: 2018-now
-    role: Volunteer
-    company: Wikimedia Indonesia dan Dinas Pemuda Olahraga dan Pariwisata Kota Padang Panjang
+  - time: 2018
+    role: Relawan
+    company: Wikimedia Indonesia
     details: |
-      Digitalisasi Konten di Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau
-  
-  - time: 2018-now
-    role: Volunteer
-    company: Wikimedia Indonesia dan Dinas Pemuda Olahraga dan Pariwisata Kota Padang Panjang
-    details: |
-      Digitalisasi Konten di Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau
+      Program pengajaran penulisan Wikipedia di Universitas Andalas. Dalam hal ini, relawan bekerja sama dengan dosen untuk mengisi mata kuliah.
 
   - time: 2013-now
     role: Social Media Specialist
     company: Wikipedia Minangkabau
     details: |
-      Coordinating content creation and posts for four Minangnese-Wikipedia social media:
+      Mengkoordinasikan pembuatan konten dan posting untuk empat media sosial Wikipedia Minangkabau:
       Twitter (@minangwiki), Facebook (@minangwiki), Telegram (@minangwiki), and Instagram (@minangwiki).
-      
-  - time: 2018-now
-    role: Volunteer
-    company: Wikimedia Indonesia dan Dinas Pemuda Olahraga dan Pariwisata Kota Padang Panjang
+
+  - time: 2014-2018
+    role: Social Media Specialist
+    company: Universitas Andalas
     details: |
-      Digitalisasi Konten di Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau
+      Mengkoordinasikan pembuatan konten dan posting untuk media sosial halaman LinkedIn Universitas Andalas.
+
+  - time: 2014-2018
+    role: Social Media Specialist
+    company: UPT Pusat Karir dan Konseling Universitas Andalas
+    details: |
+      Mengkoordinasikan pembuatan konten dan posting untuk seluruh media sosial UPT Pusat Karir dan Konseling Universitas Andalas.
