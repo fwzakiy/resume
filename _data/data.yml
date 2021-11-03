@@ -106,12 +106,103 @@ projects:
     details: |
       Menjadi <i>fullstack developer</i> untuk <i>start-up</i> Lintas Negara, sebuah jasa pengiriman produk dari luar negeri ke Indonesia.
 
+  - title: Cronos ERP - 2019
+    link: "http://www.cronos.id/"
+    details: |
+      Menjadi <i>digital marketing</i> untuk <i>start-up</i> Cronos, sebuah ERP dari PT Praxislabs Indonesia.
+  
+  - title: Assesment & Improvement IT Strategy, Tata Kelola + Platform - 2019
+    link: #
+    details: |
+      Adminsistrasi proyek yang bertujuan untuk melakukan penilaian dan peningkatan strategi dan tata kelola platform
+      teknologi informasi di Lembaga Pengelola Dana Bergulir Koperasi dan Usaha Mikro Kecil Menengah Pepublik Indonesia.
+
+  - title: TEDxBatangArau - 2018
+    link: "https://www.tedxbatangarau.com/"
+    details: |
+      Membangun website untuk kegiatan TED Independent Conference, fitur yang terdapat pada website antara lain:
+      waktu hitung mundur, pengumuman, berita, registrasi, dan kontak.
+      
+- title: Membangun Komunitas Wikipedia Minangkabau - 2017
+    link: "https://id.wikimedia.org/wiki/Membangun_komunitas_Wikipedia_Minangkabau"
+    details: |
+      Membangun komunitas penyunting Wikipedia Bahasa Minangkabau. Cara yang dilakukan yaitu membangun hubungan secara langsung 
+      dengan para pemangku kepentingan Bahasa Minangkabau khususnya di Kota Padang dan sekitarnya, dan di Sumatera Barat pada umumnya.
+      Dengan ini, para Pemangku Kepentingan memperoleh pengetahuan yang benar akan pemanfaatan pengetahuan bebas dari Wikipedia
+      dan proyek-proyek Wikimedia lainnya, yang dalam jangka panjang dapat mendukung perkembangan Wikipedia Bahasa Minangkabau.
+
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: 2019-2020
+    role: Koordinator Komunitas
+    company: Komunitas Wikimedia Jakarta
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Komunitas yang menaungi Wikipediawan (pengguna Wikipedia) di Jakarta.
+      
+  - time: 2018-now
+    role: Fasilitator
+    company: Google Gapura Digital
+    details: |
+      Proyek pengenalan program-program digital Google untuk UMKM di Indonesia.
+      
+  - time: 2015-now
+    role: Anggota
+    company: Wikimedia Indonesia
+    details: |
+      Komunitas yang menaungi Wikipediawan (pengguna Wikipedia) di Indonesia.
+
+  - time: 2018
+    role: Relawan
+    company: Wikimedia Indonesia
+    details: |
+      Digitalisasi Konten di Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau bekerja sama dengan Dinas Pemuda Olahraga dan Pariwisata Kota Padang Panjang.
+
+  - time: 2018
+    role: Relawan
+    company: Wikimedia Indonesia
+    details: |
+      Program pengajaran penulisan Wikipedia di Universitas Andalas. Dalam hal ini, relawan bekerja sama dengan dosen untuk mengisi mata kuliah.
+      
+  - time: 2017
+    role: Relawan Pengabdian Masyarakat
+    company: Jurusan Sistem Informasi Universitas Andalas
+    details: |
+      Peningkatan Promosi Potensi Daerah Melalui Pemanfaatan Teknologi Informasi.
+
+- time: 2017
+    role: Relawan Pengabdian Masyarakat
+    company: Jurusan Sistem Informasi Universitas Andalas
+    details: |
+      Pembangunan Website Profil Nagari Andaleh.
+
+- time: 2017
+    role: Relawan Pengabdian Masyarakat
+    company: Jurusan Sistem Informasi Universitas Andalas
+    details: |
+      Pembangunan dan Pengembangan Web Sistem Informasi Geografis Kecamatan Tanjung Raya.
+
+  - time: 2013-sekarang
+    role: Social Media Specialist
+    company: Wikipedia Minangkabau
+    details: |
+      Mengkoordinasikan pembuatan konten dan posting untuk empat media sosial Wikipedia Minangkabau:
+      Twitter (@minangwiki), Facebook (@minangwiki), Telegram (@minangwiki), and Instagram (@minangwiki).
+
+  - time: 2014-2018
+    role: Social Media Specialist
+    company: Universitas Andalas
+    details: |
+      Mengkoordinasikan pembuatan konten dan posting untuk media sosial halaman LinkedIn Universitas Andalas.
+
+  - time: 2014-2018
+    role: Social Media Specialist
+    company: UPT Pusat Karir dan Konseling Universitas Andalas
+    details: |
+      Mengkoordinasikan pembuatan konten dan posting untuk seluruh media sosial UPT Pusat Karir dan Konseling Universitas Andalas.
+      Selain itu juga berperan dalam pelayanan karier dan konseling bagi mahasiswa/i dan alumni Universitas Andalas.
+
+  - time: 2014-2018
+    role: Social Media Specialist
+    company: Jurusan Sistem Informasi Universitas Andalas
+    details: |
+      Pengelola situs web resmi (si.fti.unand.ac.id) dan pengelola akun media sosial untuk Twitter (@siunand).
