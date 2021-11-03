@@ -51,29 +51,43 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: PHP Developer
+    time: 2019
+    company: PT Praxislabs Indonesia / Jakarta Selatan
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      <ul>
+        <li>Responsible for creating and implementing an array of Web-based products using PHP, MySQL, and JavaScript.</li>
+        <li>Develop back-end components, connect the application with other web services, and assist front-end developers by ensuring their work integrates with the application.</li>
+        <li>Asked to develop and integrate plug-ins for popular frameworks.</li>
+       </ul>
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      HTML, PHP, JavaScript, MySQL, Phyton, Analyst
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: IT Staff
+    time: 2014-2018
+    company: Pusat Karir dan Konseling Universitas Andalas / Padang
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      <ul>
+        <li>Installing and configuring computer hardware, software, systems, networks, printers and scanners</li>
+        <li>Monitoring and maintaining computer systems and networks</li>
+        <li>Responding in a timely manner to service issues and requests</li>
+        <li>Providing technical support across the company (this may be in person or over the phone)</li>
+        <li>Setting up accounts for new users</li>
+        <li>Repairing and replacing equipment as necessary</li>
+        <li>Testing new technology</li>
+        <li>Possibly training more junior staff member</li>
+      </ul>
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      HTML, PHP, JavaScript, MySQL, Networking, IT Operations
+      
+  - role: Kerja Praktek
+    time: 2017
+    company: Dinas Energi dan Sumber Daya Mineral Sumatera Barat / Padang
+    details: |
+      Mengikuti program mata kuliah Kerja Praktek dari jurusan di Dinas ESDM Sumatera Barat.
+      Aktivitas saya fokus ke bagian Sistem Informasi Georgrafis pertambagan baru bara dan mineral.
+    technologies_used: | 
+      HTML, PHP, JavaScript, MySQL, PostgreSQL, IT Operations
 
 publications:
   - title: Random title of paper. An interesting one.
