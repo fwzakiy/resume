@@ -96,13 +96,13 @@ publications:
     conference: Tugas Akhir
     
   - title: ZAKIY.my.id
-    link: "https://www.zakiy.my.id/
+    link: "https://www.zakiy.my.id/"
     authors: Faishal Wafiq Zakiy
     conference: Personal Blog
 
 projects:
   - title: Lintas Negara - 2019
-    link: http://www.lintasnegara.com/
+    link: "http://www.lintasnegara.com/"
     details: |
       Menjadi <i>fullstack developer</i> untuk <i>start-up</i> Lintas Negara, sebuah jasa pengiriman produk dari luar negeri ke Indonesia.
 
