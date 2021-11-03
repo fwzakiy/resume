@@ -90,28 +90,21 @@ experience:
       HTML, PHP, JavaScript, MySQL, PostgreSQL, IT Operations
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: Inventarisasi Daerah Pertambangan Mineral dan Batu Bara Berasis WebGIS
+    link: "http://scholar.unand.ac.id/36512/"
+    authors: Faishal Wafiq Zakiy
+    conference: Tugas Akhir
+    
+  - title: ZAKIY.my.id
+    link: "https://www.zakiy.my.id/
+    authors: Faishal Wafiq Zakiy
+    conference: Personal Blog
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: Lintas Negara - 2019
+    link: http://www.lintasnegara.com/
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Menjadi <i>fullstack developer</i> untuk <i>start-up</i> Lintas Negara, sebuah jasa pengiriman produk dari luar negeri ke Indonesia.
 
 # Volunteering
 volunteering:
