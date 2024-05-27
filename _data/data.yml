@@ -1,4 +1,4 @@
-name: Faishal Wafiq Zakiy
+name: Faishal Wafiq Zakiy, S.Kom., M.T.I.
 support_dark_mode: true
 fork: false
 
@@ -18,7 +18,7 @@ languages:
 
 education:
   - degree: Magister Teknologi Informasi
-    time: 2019-sekarang
+    time: 2019-2022
     university: Universitas Indonesia
 
   - degree: Sarjana Komputer
@@ -51,16 +51,34 @@ profile: |
 
 # Experience
 experience:
+
+  - role: Dosen Program Studi Rekayasa Perangkat Lunak
+    time: 2022-sekarang
+    company: Universitas Darunnajah - Jakarta Selatan
+    details: |
+     Saya bertanggung jawab atas pendidikan, penelitian, dan pengabdian kepada masyarakat dengan merancang, melaksanakan,
+     menilai pembelajaran, serta mengembangkan kualifikasi dan kompetensi saya, serta menyusun Rencana Pembelajaran Semester
+     dan materi perkuliahan yang relevan.
+    technologies_used: | 
+      C++, C#, Java, HTML, PHP, JavaScript, MySQL, Phyton
+
+  - role: Tenaga Ahli Sistem Informasi
+    time: 2022
+    company: Kementerian Dalam Negeri - Jakarta Pusat
+    details: |
+     Saya bertugas melakukan pemeliharaan dan pengelolaan sistem informasi, hingga memberikan paparan saran dan masukan untuk
+     merefleksikan kegiatan dan langkah dalam kerangka pemeliharaan dan pengawasan sistem informasi di lingkup Direktorat Jenderal
+     Bina Administrasi Kewilayahan.
+    technologies_used: | 
+      Cloud Computing, COBIT 2019, HTML, PHP, JavaScript, MySQL
+
   - role: PHP Developer
     time: 2019
-    company: PT Praxislabs Indonesia / Jakarta Selatan
+    company: PT Praxislabs Indonesia - Jakarta Selatan
     details: |
-      <ul>
-        <li>Bertanggung jawab untuk membuat dan mengimplementasikan berbagai aplikasi berbasis Web menggunakan PHP, MySQL, dan JavaScript.</li>
-        <li>Mengembangkan komponen <i>back-end</i>, menghubungkan aplikasi dengan layanan web lain, dan bantu pengembang <i>front-end</i> dengan
-        memastikan pekerjaan mereka terintegrasi dengan aplikasi.</li>
-        <li>Mengembangkan dan mengintegrasikan <i>plug-in</i> untuk <i>framework</i> populer.</li>
-       </ul>
+      Membangun aplikasi berbasis web, terutama aplikasi ERP yang jadi produk utama di perusahaan tersebut. Fokus pada 
+      pengembangan backend, integrasi layanan web, dan kolaborasi dengan tim frontend. Juga mengembangkan plugin untuk
+      berbagai web yang dikembangkan.
     technologies_used: | 
       HTML, PHP, JavaScript, MySQL, Phyton
   
@@ -68,16 +86,7 @@ experience:
     time: 2014-2018
     company: Pusat Karir dan Konseling Universitas Andalas / Padang
     details: |
-      <ul>
-        <li>Menginstal dan mengonfigurasi perangkat keras, perangkat lunak, sistem, jaringan, printer, dan pemindai komputer.</li>
-        <li>Memantau dan memelihara sistem dan jaringan komputer.</li>
-        <li>Menanggapi masalah dan permintaan layanan secara tepat waktu.</li>
-        <li>Memberikan dukungan teknis di seluruh perusahaan (ini mungkin secara langsung atau melalui telepon).</li>
-        <li>Menyiapkan akun untuk pengguna baru.</li>
-        <li>Memperbaiki dan mengganti peralatan yang diperlukan.</li>
-        <li>Menguji teknologi baru.</li>
-        <li>Mungkin melatih lebih banyak anggota staf junior.</li>
-      </ul>
+      Tanggung jawab saya meliputi berbagai aspek teknis untuk kelancaran fungsi organisasi. Tugas termasuk instalasi perangkat keras dan perangkat lunak, pemeliharaan sistem jaringan, dan tanggapan cepat terhadap permintaan layanan. Saya juga mendukung seluruh organisasi, menyiapkan akun untuk pengguna baru, dan mengawasi pemeliharaan serta upgrade peralatan. Selain itu, saya menguji dan mengevaluasi teknologi baru, memberikan pelatihan kepada anggota baru, terutama mahasiswa potensial untuk bergabung dengan proyek di UPT Pusat Karir dan Konseling Universitas Andalas.
     technologies_used: | 
       HTML, PHP, JavaScript, MySQL, Networking, IT Operations
       
@@ -85,12 +94,26 @@ experience:
     time: 2017
     company: Dinas Energi dan Sumber Daya Mineral Sumatera Barat / Padang
     details: |
-      Mengikuti program mata kuliah Kerja Praktek dari jurusan di Dinas ESDM Sumatera Barat.
-      Aktivitas saya fokus ke bagian Sistem Informasi Georgrafis pertambagan baru bara dan mineral.
+      Selama kerja praktek di Dinas ESDM Sumatera Barat, saya bertugas melakukan survei data terkini dan memberikan paparan dalam bentuk aplikasi sistem informasi geografis yang dirancang selama kerja praktek. Saya mengumpulkan dan memvalidasi data untuk membuat peta digital, berkontribusi pada pemahaman sumber daya energi dan meningkatkan transparansi data publik di Dinas ESDM Sumatera Barat.
     technologies_used: | 
       HTML, PHP, JavaScript, MySQL, PostgreSQL, IT Operations
 
 publications:
+  - title: Darunnajah Vote System Application Design Using PHP Programming Language
+    link: "https://ojs.unitama.ac.id/index.php/inspiration/article/view/61"
+    authors: Supriadi Panggabean, Wahyu Joko Saputro, Faishal Wafiq Zakiy, Tutik Lestari, Ahmad Rifqi
+    conference: Inspiration: Jurnal Teknologi Informasi dan Komunikasi
+
+  - title: Perencanaan Strategis Sistem Informasi/Teknologi Informasi: Studi Kasus Universitas Andalas
+    link: "https://garuda.kemdikbud.go.id/documents/detail/2409592"
+    authors: Faishal Wafiq Zakiy, Bobby Achirul Awal Nazief, Farisya Setiadi
+    conference: Syntax Literate; Jurnal Ilmiah Indonesia
+
+  - title: Maturity Assessment of Cyber Security in The Workforce Management Domain: A Case Study in Bank Indonesia
+    link: "https://ieeexplore.ieee.org/abstract/document/9264982"
+    authors: Adyan Pamungkas Ganefi Putra, Figur Humani, Faishal Wafiq Zakiy, Muhammad Rifki Shihab, Benny Ranti
+    conference: 2020 International Conference on Information Technology Systems and Innovation (ICITSI)
+
   - title: Inventarisasi Daerah Pertambangan Mineral dan Batu Bara Berasis WebGIS
     link: "http://scholar.unand.ac.id/36512/"
     authors: Faishal Wafiq Zakiy
