@@ -17,13 +17,13 @@ languages:
   - idiom: Minang
 
 education:
-  - degree: Magister Teknologi Informasi
+  - degree: Master of Information Technology
     time: 2019-2022
-    university: Universitas Indonesia
+    university: University of Indonesia
 
-  - degree: Sarjana Komputer
+  - degree: Bachelor of Computer Science
     time: 2013-2018
-    university: Universitas Andalas
+    university: Andalas University
 skills:
   - category: Backend
     skill: 
@@ -52,23 +52,19 @@ profile: |
 # Experience
 experience:
 
-  - role: Dosen Program Studi Rekayasa Perangkat Lunak
-    time: 2022-sekarang
-    company: Universitas Darunnajah - Jakarta Selatan
+  - role: Lecturer in the Software Engineering Study Program
+    time: 2022–present
+    company: University of Darunnajah - South Jakarta
     details: |
-     Saya bertanggung jawab atas pendidikan, penelitian, dan pengabdian kepada masyarakat dengan merancang, melaksanakan,
-     menilai pembelajaran, serta mengembangkan kualifikasi dan kompetensi saya, serta menyusun Rencana Pembelajaran Semester
-     dan materi perkuliahan yang relevan.
+     I am responsible for education, research, and community service by designing, implementing, and evaluating learning processes, as well as developing my qualifications and competencies. Additionally, I prepare Semester Learning Plans and relevant lecture materials.
     technologies_used: | 
       C++, C#, Java, HTML, PHP, JavaScript, MySQL, Phyton
 
-  - role: Tenaga Ahli Sistem Informasi
+  - role: Information System Expert
     time: 2022
-    company: Kementerian Dalam Negeri - Jakarta Pusat
+    company: Ministry of Home Affairs of the Republic of Indonesia - Central Jakarta
     details: |
-     Saya bertugas melakukan pemeliharaan dan pengelolaan sistem informasi, hingga memberikan paparan saran dan masukan untuk
-     merefleksikan kegiatan dan langkah dalam kerangka pemeliharaan dan pengawasan sistem informasi di lingkup Direktorat Jenderal
-     Bina Administrasi Kewilayahan.
+     I am responsible for maintaining and managing information systems, as well as providing recommendations and insights to reflect on activities and actions within the framework of information system maintenance and supervision in the Directorate General of Regional Administration Development.
     technologies_used: | 
       Cloud Computing, COBIT 2019, HTML, PHP, JavaScript, MySQL
 
@@ -76,9 +72,7 @@ experience:
     time: 2019
     company: PT Praxislabs Indonesia - Jakarta Selatan
     details: |
-      Membangun aplikasi berbasis web, terutama aplikasi ERP yang jadi produk utama di perusahaan tersebut. Fokus pada 
-      pengembangan backend, integrasi layanan web, dan kolaborasi dengan tim frontend. Juga mengembangkan plugin untuk
-      berbagai web yang dikembangkan.
+      Developing web-based applications, primarily ERP applications as the company's main product. Focus on backend development, web service integration, and collaboration with the frontend team. Also responsible for developing plugins for various web applications.
     technologies_used: | 
       HTML, PHP, JavaScript, MySQL, Phyton
   
@@ -86,15 +80,15 @@ experience:
     time: 2014-2018
     company: Pusat Karir dan Konseling Universitas Andalas / Padang
     details: |
-      Tanggung jawab saya meliputi berbagai aspek teknis untuk kelancaran fungsi organisasi. Tugas termasuk instalasi perangkat keras dan perangkat lunak, pemeliharaan sistem jaringan, dan tanggapan cepat terhadap permintaan layanan. Saya juga mendukung seluruh organisasi, menyiapkan akun untuk pengguna baru, dan mengawasi pemeliharaan serta upgrade peralatan. Selain itu, saya menguji dan mengevaluasi teknologi baru, memberikan pelatihan kepada anggota baru, terutama mahasiswa potensial untuk bergabung dengan proyek di UPT Pusat Karir dan Konseling Universitas Andalas.
+      My responsibilities encompass various technical aspects to ensure the smooth functioning of the organization. Tasks include hardware and software installation, network system maintenance, and prompt response to service requests. I also support the entire organization by setting up accounts for new users and overseeing equipment maintenance and upgrades. Additionally, I test and evaluate new technologies, provide training to new members, and mentor potential students to join projects at the Career and Counseling Center of Andalas University.
     technologies_used: | 
       HTML, PHP, JavaScript, MySQL, Networking, IT Operations
       
-  - role: Kerja Praktek
+  - role: Internship
     time: 2017
-    company: Dinas Energi dan Sumber Daya Mineral Sumatera Barat / Padang
+    company: West Sumatra Energy and Mineral Resources Office - Padang
     details: |
-      Selama kerja praktek di Dinas ESDM Sumatera Barat, saya bertugas melakukan survei data terkini dan memberikan paparan dalam bentuk aplikasi sistem informasi geografis yang dirancang selama kerja praktek. Saya mengumpulkan dan memvalidasi data untuk membuat peta digital, berkontribusi pada pemahaman sumber daya energi dan meningkatkan transparansi data publik di Dinas ESDM Sumatera Barat.
+      During my internship at the West Sumatra Energy and Mineral Resources Office, I was responsible for surveying current data and presenting it through a Geographic Information System (GIS) application designed during the internship. I collected and validated data to create digital maps, contributing to the understanding of energy resources and enhancing public data transparency at the West Sumatra Energy and Mineral Resources Office.
     technologies_used: | 
       HTML, PHP, JavaScript, MySQL, PostgreSQL, IT Operations
 
